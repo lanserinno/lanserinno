@@ -15,11 +15,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Lanserinno's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanserinno&show_icons=true&theme=dark)
-
----
-
 
 ## 🌐 Socials
 - GitHub: [lanserinno](https://github.com/lanserinno)
