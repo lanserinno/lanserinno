@@ -18,12 +18,6 @@
 
 ---
 
-## 📌 Featured Projects
-- [**React To-Do List**](https://github.com/lanserinno/react-todolists) – A task management app with TypeScript + React  
-- [**Next.js Tailwind Dashboard**](https://github.com/lanserinno/nextjs-tailwind-dashboard) – Responsive admin dashboard  
-- [**Seatwork Reservation**](https://github.com/lanserinno/seatwork-reservation) – PHP project for reservation system  
-
----
 
 ## 🌐 Connect With Me
 - GitHub: [lanserinno](https://github.com/lanserinno)
