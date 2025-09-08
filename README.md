@@ -1,7 +1,9 @@
 # Lanserinno/Lans
 
 🎓 Computer Science Student  
+
 💻 Passionate about Web Development, Backend Functionalities, and Database Management
+
 🚀 Currently learning **NodeJs, Laravel and PostgreSQL**
 
 ---
@@ -19,7 +21,8 @@
 ---
 
 
-## 🌐 Connect With Me
+## 🌐 Socials
 - GitHub: [lanserinno](https://github.com/lanserinno)
 - Facebook: https://web.facebook.com/lansclarence/
+- LinkedIn: Coming soon (updating)
   
