@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lanserinno
+# Lanserinno/Lans
 
 🎓 Computer Science Student  
 💻 Passionate about Web Development and Machine Learning  
