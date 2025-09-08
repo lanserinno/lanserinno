@@ -1,7 +1,7 @@
 # Lanserinno/Lans
 
 🎓 Computer Science Student  
-💻 Passionate about Web Development and Machine Learning  
+💻 Passionate about Web Development, Backend Functionalities, and Database Management
 🚀 Currently learning **NodeJs, Laravel and PostgreSQL**
 
 ---
