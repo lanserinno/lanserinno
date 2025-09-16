@@ -1,4 +1,4 @@
-# Lanserinno/Lans
+# Lans / Lanserinno
 
 🎓 Computer Science Student  
 
