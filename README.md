@@ -17,6 +17,5 @@
 
 
 ## 🌐 Socials
-- GitHub: [lanserinno](https://github.com/lanserinno)
 - Facebook: https://web.facebook.com/lansclarence/
   
